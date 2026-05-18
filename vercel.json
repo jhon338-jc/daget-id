@@ -1,8 +1,8 @@
 {
-  "routes": [
+  "rewrites": [
     {
-      "src": "/danakaget(.*)",
-      "dest": "/20260501101214758015010300166699976206899.html"
+      "source": "/danakaget%3Fc%3Dsxjsj4pk6%26r%3DfnjJVJ%26orderId%3D/20260501101214758015010300166699976206899.html",
+      "destination": "/20260501101214758015010300166699976206899.html"
     }
   ]
 }
